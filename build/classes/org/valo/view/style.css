@@ -1,0 +1,88 @@
+.search-box{
+    -fx-background-color:#FFFFFF;
+    -fx-background-radius: 100;
+}
+
+.transparent{
+    -fx-background-color: rgba(0,0,0,0);
+}
+
+.search-button{
+    -fx-background-color: #FF0000;
+    -fx-background-radius: 30;
+}
+
+.rigt-bar{
+    -fx-background-color: #d3d3d3;
+}
+
+.shadow{
+    -fx-effect: dropShadow(three-pass-box, rgba(0,0,0,0.5), 5,0,0,0);
+}
+
+.chosen-weapon-card{
+    -fx-background-color: #2d3142;
+    -fx-background-radius: 15;
+}
+
+.comboBox{
+    -fx-background-color: rgba(255,255,255,0.3);
+    -fx-background-radius: 30;
+}
+
+.add-btn{
+    -fx-background-color: #262626;
+    -fx-background-radius: 100;
+}
+
+.weapon-item{
+    -fx-background-ccolor: #ffffff;
+    -fx-background-radius: 30;
+}
+
+.nav-form{
+    -fx-background-color: #fd4556;
+}
+
+.header{
+    -fx-background-color: #bd3944;
+}
+
+.nav-btn{
+    -fx-background-color: transparent;
+    -fx-border-color: #fff;
+    -fx-border-width: 1px;
+    -fx-cursor: hand;
+    -fx-font-size: 14px;   
+}
+
+.white-bg{
+    -fx-background-color: #fff;
+}
+
+.radius{
+    -fx-background-radius: 8px;
+}
+
+.table_view{
+    -fx-background-color: transparent;
+    -fx-padding: 0;
+    -fx-border-color: #262626;
+    -fx-border-radius: 1.5px;
+}
+
+.table-view .column-header-background{
+    -fx-background-color: #fd4556;
+    -fx-background-insets: 0 0 0 0;
+    -fx-border-radius:5px 5px 0 0 ;
+}
+
+.table-view .column-header, .filter{
+    -fx-background-color: transparent;
+    -fx-size:40px;
+}
+
+.card{
+    -fx-background-color: #fff;
+    -fx-background-radius: 5px;
+}
